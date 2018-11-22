@@ -1,0 +1,9 @@
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.csproj.CoreCompileInputs.cache
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.AssemblyInfoInputs.cache
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.AssemblyInfo.cs
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.deps.json
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.csprojAssemblyReference.cache
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.dll
+F:\ServiceFabric\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld.Interfaces.pdb

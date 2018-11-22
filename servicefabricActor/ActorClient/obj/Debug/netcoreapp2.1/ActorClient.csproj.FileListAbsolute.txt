@@ -1,0 +1,14 @@
+F:\ServiceFabric\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.deps.json
+F:\ServiceFabric\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.json
+F:\ServiceFabric\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.dev.json
+F:\ServiceFabric\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.dll
+F:\ServiceFabric\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CoreCompileInputs.cache
+F:\ServiceFabric\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfoInputs.cache
+F:\ServiceFabric\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfo.cs
+F:\ServiceFabric\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csprojAssemblyReference.cache
+F:\ServiceFabric\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.pdb
+F:\ServiceFabric\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.dll
+F:\ServiceFabric\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\HelloWorld.Interfaces.pdb
+F:\ServiceFabric\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CopyComplete
+F:\ServiceFabric\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.dll
+F:\ServiceFabric\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.pdb
